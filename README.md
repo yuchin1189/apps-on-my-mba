@@ -68,10 +68,10 @@ brew search visualstudiocode
 以上有很多是因為看過這些影片裡提到而知道的，但我無法完全記得哪些來自哪裡
 
 ### Snazzy Labs
-[Amazing FREE Mac Apps You Aren’t Using!](https://youtu.be/FxUk8gxzHI8?feature=shared)
-[Superb FREE Mac Apps You Aren’t Using!](https://youtu.be/sPPTZ2nX1C0?feature=shared)
-[Hidden FREE Mac Apps!](https://youtu.be/D2_8qJi2jpQ?feature=shared)
+- [Amazing FREE Mac Apps You Aren’t Using!](https://youtu.be/FxUk8gxzHI8?feature=shared)
+- [Superb FREE Mac Apps You Aren’t Using!](https://youtu.be/sPPTZ2nX1C0?feature=shared)
+- [Hidden FREE Mac Apps!](https://youtu.be/D2_8qJi2jpQ?feature=shared)
 
 ### A Better Computer
-[10 Mac apps I don't talk about enough](https://youtu.be/0aKBgzibssU?feature=shared)
-[10 amazing little features in 10 amazing Mac apps](https://youtu.be/PoPIEcsvjPM?feature=shared)
+- [10 Mac apps I don't talk about enough](https://youtu.be/0aKBgzibssU?feature=shared)
+- [10 amazing little features in 10 amazing Mac apps](https://youtu.be/PoPIEcsvjPM?feature=shared)
