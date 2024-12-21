@@ -31,7 +31,7 @@ brew search visualstudiocode
 
 ## 讓操作電腦更方便的工具
 
-- [Raycast](raycast.com) 內建的 Spotlight 很好用，但這個能安裝一堆擴充更好用
+- [Raycast](https://raycast.com) 內建的 Spotlight 很好用，但這個能安裝一堆擴充更好用
 - [mos](https://mos.caldis.me/) 把滑鼠滾輪滾動的動畫變滑順（因為蘋果故意把各家滑鼠的滾動動畫變卡，謝謝蘋果）
 - [AeroSpace](https://github.com/nikitabobko/AeroSpace) + [JankyBorders](https://github.com/FelixKratz/JankyBorders) 如果你用過 i3 wm 的話
 - [middleclick](https://github.com/artginzburg/MiddleClick-Sonoma) 觸控板的三指點擊作為中鍵點擊（關閉分頁的時候就不用瞄準超小的分頁關閉叉叉）
@@ -40,7 +40,7 @@ brew search visualstudiocode
 
 ## 在終端機上使用
 
-- [Homebrew](brew.sh) 比 App Store 好用
+- [Homebrew](https://brew.sh) 比 App Store 好用
 - git
 - neovim 有時候要編輯一些 config 檔案，但沒有很想等 vscode 打開
 - [tealdeer](https://github.com/tealdeer-rs/tealdeer) 快速取得許多 TUI app 的使用範例（許多時候比閱讀 help 來的方便）
