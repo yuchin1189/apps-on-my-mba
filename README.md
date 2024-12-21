@@ -33,7 +33,7 @@ brew search visualstudiocode
 
 - [Raycast](raycast.com) 內建的 Spotlight 很好用，但這個能安裝一堆擴充更好用
 - [mos](https://mos.caldis.me/) 把滑鼠滾輪滾動的動畫變滑順（因為蘋果故意把各家滑鼠的滾動動畫變卡，謝謝蘋果）
-- [AeroSpace](https://github.com/nikitabobko/AeroSpace) + [borders]() 如果你用過 i3 wm 的話
+- [AeroSpace](https://github.com/nikitabobko/AeroSpace) + [JankyBorders](https://github.com/FelixKratz/JankyBorders) 如果你用過 i3 wm 的話
 - [middleclick](https://github.com/artginzburg/MiddleClick-Sonoma) 觸控板的三指點擊作為中鍵點擊（關閉分頁的時候就不用瞄準超小的分頁關閉叉叉）
 - [ShowMeYourHotKeys](https://showmeyourhotkeys.moxadventu.com/) 按住 cmd 鍵會彈出一個快捷鍵列表
 - [威注音 vchewing](https://vchewing.github.io/README.html) 選項很多的注音輸入法。稍作設定就可以用 shift 暫時切換到英文輸入，也可以把選字的游標改成在字的左邊時選字（就像微軟新注音一樣），還可以自訂選字框、像新酷音一樣用`（backtick）鍵輸入特殊符號等等
@@ -44,8 +44,8 @@ brew search visualstudiocode
 - git
 - neovim 有時候要編輯一些 config 檔案，但沒有很想等 vscode 打開
 - [tealdeer](https://github.com/tealdeer-rs/tealdeer) 快速取得許多 TUI app 的使用範例（許多時候比閱讀 help 來的方便）
-- [Starship](starship.rs) 把終端機上的提示字元（prompt）變成酷酷的樣子
-- [Spicetify](spicetify.app) 把 Spotify 變成酷酷的樣子
+- [Starship](https://starship.rs) 把終端機上的提示字元（prompt）變成酷酷的樣子
+- [Spicetify](https://spicetify.app) 把 Spotify 變成酷酷的樣子
 - [yazi](https://github.com/sxyazi/yazi) 用 vim 的瀏覽方式瀏覽電腦上的檔案
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) 跟各種亂七八糟的 yt 影片線上下載工具一樣功能，但比較乾淨
 - [zoxide](https://github.com/ajeetdsouza/zoxide) 跟 cd 一樣，但更方便
