@@ -37,6 +37,7 @@ brew search visualstudiocode
 - [middleclick](https://github.com/artginzburg/MiddleClick-Sonoma) 觸控板的三指點擊作為中鍵點擊（關閉分頁的時候就不用瞄準超小的分頁關閉叉叉）
 - [ShowMeYourHotKeys](https://showmeyourhotkeys.moxadventu.com/) 按住 cmd 鍵會彈出一個快捷鍵列表
 - [威注音 vchewing](https://vchewing.github.io/README.html) 選項很多的注音輸入法。稍作設定就可以用 shift 暫時切換到英文輸入，也可以把選字的游標改成在字的左邊時選字（就像微軟新注音一樣），還可以自訂選字框、像新酷音一樣用`（backtick）鍵輸入特殊符號等等
+- [Better Display](https://github.com/waydabber/BetterDisplay) 在 menubar 調整顯示器設定和各種跟顯示有關的選項，All-in-one
 
 ## 在終端機上使用
 
@@ -60,3 +61,17 @@ brew search visualstudiocode
 - ~~[Caprine](https://github.com/sindresorhus/caprine) FB Messenger~~ 朋友群組搬家到 telegram 後就不用了
 - [PixelPerfect 超解析度](https://github.com/cormiertyshawn895/PixelPerfect/) 讓 MacOS 上的 iPad 應用程式，以正常比例來顯示 UI
 - [The Unarchiver](https://theunarchiver.com/) 滑鼠點兩下解壓縮任何格式的壓縮檔
+- [Hiddenbar](https://apps.apple.com/us/app/hidden-bar/id1452453066?mt=12) 把 menubar 擠滿的東西隱藏起來
+
+## 參考和延伸閱讀
+
+以上有很多是因為看過這些影片裡提到而知道的，但我無法完全記得哪些來自哪裡
+
+### Snazzy Labs
+[Amazing FREE Mac Apps You Aren’t Using!](https://youtu.be/FxUk8gxzHI8?feature=shared)
+[Superb FREE Mac Apps You Aren’t Using!](https://youtu.be/sPPTZ2nX1C0?feature=shared)
+[Hidden FREE Mac Apps!](https://youtu.be/D2_8qJi2jpQ?feature=shared)
+
+### A Better Computer
+[10 Mac apps I don't talk about enough](https://youtu.be/0aKBgzibssU?feature=shared)
+[10 amazing little features in 10 amazing Mac apps](https://youtu.be/PoPIEcsvjPM?feature=shared)
