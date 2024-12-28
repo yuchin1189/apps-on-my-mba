@@ -35,7 +35,7 @@ brew search visualstudiocode
 - [mos](https://mos.caldis.me/) 把滑鼠滾輪滾動的動畫變滑順（因為蘋果故意把各家滑鼠的滾動動畫變卡，謝謝蘋果）
 - [AeroSpace](https://github.com/nikitabobko/AeroSpace) + [JankyBorders](https://github.com/FelixKratz/JankyBorders) 如果你用過 i3 wm 的話
 - [middleclick](https://github.com/artginzburg/MiddleClick-Sonoma) 觸控板的三指點擊作為中鍵點擊（關閉分頁的時候就不用瞄準超小的分頁關閉叉叉）
-- [KeyClu](https://github.com/Anze/KeyCluCask) 按住 cmd 鍵會彈出一個快捷鍵列表
+- [KeyClu](https://github.com/Anze/KeyCluCask) 我是設定成按住 cmd 鍵會彈出快捷鍵列表
 - [威注音 vchewing](https://vchewing.github.io/README.html) 選項很多的注音輸入法。稍作設定就可以用 shift 暫時切換到英文輸入，也可以把選字的游標改成在字的左邊時選字（就像微軟新注音一樣），還可以自訂選字框、像新酷音一樣用`（backtick）鍵輸入特殊符號等等
 - [Better Display](https://github.com/waydabber/BetterDisplay) 在 menubar 調整顯示器設定和各種跟顯示有關的選項，All-in-one
 
